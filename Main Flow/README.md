@@ -43,7 +43,6 @@ This project aims to apply data analysis techniques, machine learning algorithms
 
 - **Python Libraries**: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Statsmodels
 - **Machine Learning**: Logistic Regression, K-Means, Linear Regression, ARIMA
-- **NLP**: NLTK, SpaCy
 - **Data Visualization**: Matplotlib, Seaborn, Plotly
 - **Version Control**: Git, GitHub
 
